@@ -10,7 +10,7 @@ Installation
 Place `MediaWiki.php` in `plugins/MediaWiki/` in your Minion install. If your Minion
 install is a git repository, you can
 
-    git submodule add https://github.com/rfreebern/minion-inhabit-plugin.git plugins/MediaWiki
+    git submodule add https://github.com/rfreebern/minion-mediawiki-plugin.git plugins/MediaWiki
 
 from the Minion base directory.
 
